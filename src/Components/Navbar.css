@@ -1,0 +1,45 @@
+
+.nav-menu {
+    /* background: linear-gradient(rgba(0, 0, 0, 0.637), rgba(0, 0, 0, 0.671)); */
+    background-color: var(--mass-primary);
+    padding: 16px;
+    transition: all 0.7s;
+  }
+  
+  .menu-item {
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #eee;
+    transition: color 0.5s;
+    text-decoration: none;
+  }
+  
+  .menu-item:hover {
+    color: var(--color-primary) !important;
+  }
+  
+  .line1,
+  .line2,
+  .line3 {
+    width: 23px;
+    height: 3px;
+    margin: 5px;
+    transition: all 0.4s;
+  }
+  
+  .change .line1 {
+    transform: rotate(-45deg) translate(-5px, 6px);
+  }
+  
+  .change .line2 {
+    opacity: 0;
+  }
+  
+  .change .line3 {
+    transform: rotate(45deg) translate(-5px, -6px);
+  }
+  
+  .custom-navbar {
+    padding: 5px 30px;
+    /* background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7)); */
+  }
