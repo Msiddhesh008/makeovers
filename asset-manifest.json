@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/makeovers/static/css/main.46d74dc7.css",
+    "main.js": "/makeovers/static/js/main.efedb357.js",
+    "static/media/pooja7.jpg": "/makeovers/static/media/pooja7.44008bc69d5d3b671d3c.jpg",
+    "static/media/pooja9.jpg": "/makeovers/static/media/pooja9.e71e38d55f7172dd81cd.jpg",
+    "static/media/pooja5.jpg": "/makeovers/static/media/pooja5.e40d5f424f723415959f.jpg",
+    "static/media/pooja8.jpg": "/makeovers/static/media/pooja8.4be449ab154beced850f.jpg",
+    "static/media/pooja2.jpg": "/makeovers/static/media/pooja2.e6b72cba1df1b5b09ba9.jpg",
+    "static/media/pooja3.jpg": "/makeovers/static/media/pooja3.81b81a2bd78b96c7a466.jpg",
+    "static/media/pooja1.jpg": "/makeovers/static/media/pooja1.835168abb8b95a4a143a.jpg",
+    "index.html": "/makeovers/index.html",
+    "main.46d74dc7.css.map": "/makeovers/static/css/main.46d74dc7.css.map",
+    "main.efedb357.js.map": "/makeovers/static/js/main.efedb357.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46d74dc7.css",
+    "static/js/main.efedb357.js"
+  ]
+}
